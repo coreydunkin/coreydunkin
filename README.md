@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coreydunkin
 - 👀 I’m interested in coding, drawing and music
-- 🌱 I’m currently learning all things React and Angular
+- 🌱 Currently heavily into React and Angular
 - 📫 How to reach me www.coreydunkin.com 
 
 <!---
